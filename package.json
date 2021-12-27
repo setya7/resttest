@@ -1,0 +1,24 @@
+{
+  "name": "testrest",
+  "version": "1.0.0",
+  "description": "app rest coba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/setya7/testrest.git"
+  },
+  "keywords": [
+    "rest",
+    "coba",
+    "nodejs"
+  ],
+  "author": "amat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/setya7/testrest/issues"
+  },
+  "homepage": "https://github.com/setya7/testrest#readme"
+}
